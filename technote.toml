@@ -16,8 +16,17 @@ state = "draft"
 name.given = "Richard"
 name.family = "Dubois"
 internal_id = "duboisr"
-
 [[technote.authors.affiliations]]
 name = "SLAC National Accelerator Laboratory"
 internal_id = "SLAC"
+ror = "https://ror.org/05gzmn429"
+address = "2575 Sand Hill Rd., Menlo Park, CA 94025, USA"
+[[technote.authors]]
+name = {given = "Kian-Tat", family = "Lim"}
+internal_id = "limk"
+orcid = "https://orcid.org/0000-0002-6338-6516"
+[[technote.authors.affiliations]]
+name = "SLAC National Accelerator Laboratory"
+internal_id = "SLAC"
+ror = "https://ror.org/05gzmn429"
 address = "2575 Sand Hill Rd., Menlo Park, CA 94025, USA"
